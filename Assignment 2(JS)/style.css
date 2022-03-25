@@ -1,0 +1,45 @@
+.leftside,
+.rightside {
+    height: 100vh;
+    width: 100%;
+}
+
+.leftside {
+    background-color: #FADBD8;
+}
+
+.leftside h2 {
+    text-align: center;
+}
+
+.rightside {
+    background-color: #A3E4D7;
+}
+
+.rightside h2 {
+    text-align: center;
+}
+
+.rightside .table {
+    margin-top: 40px;
+}
+
+.leftside h2 {
+    padding-top: 20px;
+}
+
+.rightside h2 {
+    padding-top: 20px;
+}
+
+.mb-3 {
+    width: 80%;
+    margin: auto;
+}
+
+.table {
+    width: 90%;
+    margin: auto;
+    border: 2px solid black;
+    padding: auto;
+}
